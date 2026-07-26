@@ -1,34 +1,54 @@
 ## 👋 Hi there, I'm Sakshi
 
-🚀 **Full-Stack AI Developer** passionate about building intelligent, scalable, and interactive applications.  
-I specialize in **AI/ML, Generative AI, and Agentic AI systems**, combining them with modern full-stack development to create real-world solutions.
+🚀 **Full-Stack AI Developer** passionate about building intelligent, scalable, and data-driven systems at the intersection of Software Engineering, Agentic AI, and Data Engineering.
 
-🌱 Currently building my **own developer portfolio** with a modern, futuristic UI.
+I specialize in **Generative AI, Agentic AI, Full-Stack Development, and Data Engineering**, creating real-world solutions powered by intelligent automation, AI agents, and modern technologies.
 
----
-
-## 🚀 Projects
-
-### 💬 SMART — Real-Time Chat Web App  
-*React • Node.js • Express • MongoDB • Socket.IO • JWT*  
-- Built a secure **multi-user real-time chat application**  
-- Implemented **Socket.IO** for instant messaging with low latency  
-- Added **JWT-based authentication** for secure session management  
+🌱 Currently working on my **Developer Portfolio Website** and **Atlas – Intelligent Traffic Management & Simulation System using MARL and SUMO**, while continuously exploring Large Language Models (LLMs), intelligent systems, and scalable AI applications.
 
 ---
 
-### 📄 Document Chatbot (RAG-based)  
-*Python • LangChain • Vector DB • Embeddings • Streamlit*  
-- Built a **context-aware chatbot** using RAG architecture  
-- Handled **100+ queries with high retrieval accuracy**  
-- Implemented **vector search + LLM responses** for intelligent Q&A  
+## 🚀 Featured Projects
+
+### 🤖 HCP Interaction Logging System (Agentic AI CRM Workflow)
+
+*React • FastAPI • PostgreSQL • LangGraph • Groq (Llama-3.3-70B)*
+
+* Built an Agentic AI workflow to automate healthcare interaction management.
+* Developed multiple LangGraph agents for logging, retrieval, summarization, and intelligent recommendations.
+* Designed structured data pipelines for conversational and form-based inputs.
+
+### 📊 Bank Transaction ETL & Fraud Analytics Pipeline
+
+*Python • PostgreSQL • Docker • Streamlit • Plotly*
+
+* Developed an end-to-end ETL pipeline processing **280K+ transaction records**.
+* Engineered fraud-risk analytics and interactive visualizations.
+* Optimized data processing workflows achieving a **4.4x performance improvement**.
+
+### 💬 Cipher Chat — Real-Time Messaging Platform
+
+*React • Node.js • Express • MongoDB • Socket.IO • JWT*
+
+* Built a production-style real-time messaging application.
+* Implemented **RSA-2048 + AES-256-GCM encryption** and secure authentication.
+* Designed scalable MongoDB aggregation pipelines for message retrieval.
+
+### 🚦 Atlas (Ongoing)
+
+*Python • MARL • SUMO • Multi-Agent Systems*
+
+* Developing an intelligent traffic management and simulation system using Multi-Agent Reinforcement Learning.
+* Exploring autonomous decision-making, traffic optimization, and intelligent transportation systems.
 
 ---
 
 ## 💫 About Me
-- 🔭 Currently working on my **developer portfolio**
-- 🌱 Learning and exploring **AI/ML & advanced systems**
-- ⚡ Passionate about **building AI-powered real-world solutions**
+
+* 🔭 Building intelligent Full-Stack AI applications and data-driven systems.
+* 🌱 Currently developing my Developer Portfolio Website and Atlas.
+* ⚡ Passionate about Agentic AI, Data Engineering, Intelligent Systems, and Software Development.
+* 🤝 Open to collaborations and internship opportunities in Full-Stack AI, Software Development, and Data-related roles.
 
 ---
 
